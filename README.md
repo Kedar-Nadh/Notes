@@ -12,6 +12,8 @@ It can be used for:
 1. **So much more!**
 
 
+#### Check it live on -> https://kedar-nadh.github.io/Notes/
+
 ## Screenshots
 
 ![Notes📝 Web App Screenshot](./src/Notes.png)
